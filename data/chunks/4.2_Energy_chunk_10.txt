@@ -1,0 +1,1 @@
+Physics case, the work done is the product of the applied gravitational force i.e. the weight of the body and the vertical height. ∴ Potential energy = weight of the body × vertical height = mgh ∴ Ep = mgh

@@ -1,0 +1,1 @@
+instrument is VC. 16 Physics The length of the rod = main scale reading + vernier scale reading = main scale reading + vernier scale reding x vernier scale constant. Thus, L = M + V x VC, where VC is the vernier constant.

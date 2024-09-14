@@ -1,0 +1,32 @@
+# Exclude system files
+.DS_Store
+
+# Exclude chunk metrics, context, and other specified files
+chunk-metrics.pdf
+Miniforge3-MacOSX-arm64.sh
+-latest-MacOSX-x86_64.sh
+context.txt
+ram.txt
+chocolatine-3b-instruct-dpo-revised-q4_k_m.gguf
+
+# Exclude Python cache files
+__pycache__/
+
+# Exclude directories
+autorag/
+physics_chatbot_env/
+
+# Exclude `llama.cpp` directory (since it's a separate repo)
+llama.cpp/
+
+# Include necessary files
+!README.md
+!requirements.txt
+!app.py
+
+# Allow src and data directories
+!src/
+!data/
+
+# Keep bin excluded
+bin/

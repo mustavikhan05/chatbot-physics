@@ -1,0 +1,1 @@
+mass/volume = m/v   = = 1000  kgm-3 Given Mass, m = 2000 kg volume, v = 2m3 Density, ρ= ?

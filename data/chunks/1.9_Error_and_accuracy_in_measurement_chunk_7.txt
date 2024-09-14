@@ -1,0 +1,1 @@
+2 3 Breadth B 1 2 3 Height H 1 2 3 22  Physics Calculation and result : Area of the rectangular body,

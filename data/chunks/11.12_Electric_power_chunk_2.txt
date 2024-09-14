@@ -1,0 +1,1 @@
+(11.13) 190 Physics Substituting the value of W from equation (11.11) we get, P VI = (11.14) Applying Ohm’s law P can be expressed in terms of V, I and R as below-  2 2 V P VI I R R = = =

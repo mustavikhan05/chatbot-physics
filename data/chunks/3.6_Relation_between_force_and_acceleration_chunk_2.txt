@@ -1,0 +1,1 @@
+or F ma = (3.3) or Force = mass×acceleration The dimension of force: [F] = MLT-2 Mathematical Example 3.1: What is the force to be applied to a mass of 50 kg to produce an acceleration of 4 ms-2 ? We know, Here, F = ma mass of the body, m = 50 kg = 50 kg × 4 ms-2

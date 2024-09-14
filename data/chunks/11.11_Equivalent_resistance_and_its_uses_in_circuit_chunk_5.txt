@@ -1,0 +1,1 @@
+Ω + 10 Ω = 15 Ω Again, 1 2 1 1 1 P R R R = + 1 1 1 5 10 P R = + Ω Ω Here, First resistance, R1 = 5 Ω Second resistance, R2 = 10 Ω Equivalent resistance in series, RS =? Equivalent resistance in parallel, RP =? Physics 189 = 1 2 1 10 − + Ω = 1 3 10 − Ω RP = 3.33 Ω Answer: RS = 15 Ω and RP = 3.33 Ω

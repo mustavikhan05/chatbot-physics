@@ -1,0 +1,1 @@
+Rectangular body’s Number of observation main scale reading M (cm) Vernier super imposition V Vernier constant VC (cm) Reading M + V x VC (cm) Mean reading (cm) Length L 1 2      3      Breadth B 1      2      3      Height H 1      2      3

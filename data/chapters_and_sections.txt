@@ -1,0 +1,122 @@
+1.1 Physics
+1.2 Objectives of Physics
+1.3 Space and time
+1.4 Physical Quantities
+1.5 Units of measurements
+273.16 of the
+6.733 x
+1.6 Dimensions
+1.7 Scientific symbols and notations
+1.8 Measuring Instruments
+1.9 Error and accuracy in measurement
+2.1 Rest and motion
+2.2 Types of motion
+2.3 Scalar and vector quantities
+2.4 Different quantities related to motion
+2.5 Equations of motion
+2.6 Motion of falling bodies
+2.7 Motion and Graph
+3.1 Inertia and qualitative concept of force
+3.2 Nature of force
+3.3 Balanced and unbalanced forces
+3.4 Momentum
+3.5 Effect of force on motion
+3.6 Relation between force and acceleration
+3.7 Action and reaction force
+0.1 s
+3.8 Safe journey
+3.9 Friction and force of friction
+3.10 Effects of friction on motion
+3.11 Increasing and decreasing friction
+3.12 Friction
+0.8 ms
+4.1 Work
+4.2 Energy
+4.3 Prime Sources of Energy
+4.4 Transformation of energy
+4.5 Power
+4.6 Efficiency
+5.1 Pressure and Area
+5.3 Atmospheric pressure
+5.5 Change in atmospheric pressure and weather
+5.6 Pressure at a point in a liquid at equilibrium
+5.7 Pressure of a fluid and buoyancy
+5.8 Floatation and immersion of a body
+5.11 Elasticity
+6.1 Heat and Temperature
+273.16 th part of the temperature of the triple point of water is called
+6.2 Thermometric properties of matter
+6.3 Relation among Celsius
+6.4 Raise of temperature and internal energy of body
+6.5 Thermal Expansion of substance
+6.6 Expansion of solids
+6.7 Expansion of liquids
+6.8 Real and apparent expansion of liquids
+6.9 Effect of heat on change of state
+6.10 Fusion
+6.11 Effect of pressure on boiling point
+6.12 Latent heat of fusion and latent heat of vaporization
+6.13 Dependence of Evaporation on Various Factors
+6.14 Thermal Capacity
+6.15 Specific Heat
+6.16 Relation between specific heat and thermal capacity
+6.17 Fundamental principle of Calorimetry
+7.1 Periodic Motion Oscillatory or Harmonic Motion
+7.2 Waves
+7.3 Wave related quantities
+7.4 A few relations
+7.6 Echo
+7.7 Uses of echo
+7.8 Variation of velocity of sound
+7.9 Audibility range and their uses
+8.1 Nature of light
+8.2 Laws of reflection of light
+8.3 Mirror
+8.4 Image
+8.5 Image in a mirror
+8.6 Some common phenomena of formation of images in plane and spherical
+8.7 Uses of mirror
+8.8 Safe driving
+8.9 Blinds turns on hilly roads
+8.10 Magnification
+9.1 Refraction of light
+9.2 Refractive index
+9.3 Critical angle and total internal reflection
+9.4 Mirage
+9.5 Optical Fiber
+9.6 Lenses and their Classification
+9.7 Few definitions related to lens
+9.8 Power of lens
+9.9 Human eye
+9.10 Function of an eye
+9.11 Defects of vision and its remedy
+9.12 Perceptions of coloured object
+9.13 Uses of refraction in our daily life
+10.1 Charge
+10.2 Electrification by friction
+10.3 Electric Induction
+10.4 Electroscope
+10.5 Electric Force
+10.6 Electric Field
+10.7 Electric Potential
+10.8 Electric capacitor
+10.9 Uses and Dangers of Static Electricity
+11.1 Production of current electricity from static electricity
+11.2 Direction of electric current and direction of electron flow
+11.3 Electric symbols
+11.4 Conductor
+11.5 Relationship between potential difference and electric current
+11.6 Resistance
+11.7 Electromotive force and potential difference
+11.8 Dependence of resistance
+11.9 Resistivity and Conductivity
+11.10 Making series and parallel circuits and their uses
+11.11 Equivalent resistance and its uses in circuit
+11.12 Electric power
+11.13 System loss and load shedding
+11.14 Safe and effective use of electricity
+13.10 Information and communication technology
+14.1 Basis of bio
+14.2 Contributions of Jagadish Chandra Bose
+14.3 Human body and machine
+14.4 Instruments used for diagnosis of diseases

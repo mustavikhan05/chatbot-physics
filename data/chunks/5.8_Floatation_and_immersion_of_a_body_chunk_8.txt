@@ -1,0 +1,1 @@
+F2 F1 = A2 A1 (5.4) So, greater is the cross sectional area of the larger piston, the greater is the force exerted on it. If the cross sectional area of the larger one is 100 times greater than that of the smaller one, then a force of 1N applied to the smaller one will produce an upward force of 100N on the larger piston. Figur: 5.10 96  Physics
