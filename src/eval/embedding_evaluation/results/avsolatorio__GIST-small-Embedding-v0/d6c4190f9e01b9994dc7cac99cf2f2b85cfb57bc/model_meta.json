@@ -1,0 +1,1 @@
+{"name": "avsolatorio/GIST-small-Embedding-v0", "revision": "d6c4190f9e01b9994dc7cac99cf2f2b85cfb57bc", "release_date": null, "languages": [], "n_parameters": null, "memory_usage": null, "max_tokens": null, "embed_dim": null, "license": null, "open_source": null, "similarity_fn_name": null, "framework": ["Sentence Transformers"], "loader": null}
